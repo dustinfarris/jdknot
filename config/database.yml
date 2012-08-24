@@ -23,5 +23,5 @@ production:
   encoding: utf8
   database: jdknot
   pool: 5
-  username: web
+  user: web
   password: 
