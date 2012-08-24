@@ -20,7 +20,7 @@ group :test do
 end
 
 group :production do
-  gem 'pg', '0.14.0'
+  gem 'mysql', '2.8.1'
 end
 
 # vim: sts=2 ts=2 ft=ruby
